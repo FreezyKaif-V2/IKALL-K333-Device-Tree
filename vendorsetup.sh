@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-#add_lunch_combo omni_IKALL-user
-#add_lunch_combo omni_IKALL-userdebug
-#add_lunch_combo omni_IKALL-eng
+#add_lunch_combo twrp_IKALL-user
+#add_lunch_combo twrp_IKALL-userdebug
+#add_lunch_combo twrp_IKALL-eng
