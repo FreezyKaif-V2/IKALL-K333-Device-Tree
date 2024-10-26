@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_IKALL.mk
+    $(LOCAL_DIR)/twrp_IKALL.mk
 
 COMMON_LUNCH_CHOICES := \
     omni_IKALL-user \
