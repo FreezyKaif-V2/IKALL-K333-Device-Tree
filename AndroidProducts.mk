@@ -9,6 +9,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/twrp_IKALL.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_IKALL-user \
-    omni_IKALL-userdebug \
-    omni_IKALL-eng
+    twrp_IKALL-user \
+    twrp_IKALL-userdebug \
+    twrp_IKALL-eng
