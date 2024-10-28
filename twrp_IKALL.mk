@@ -12,12 +12,12 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, vendor/twrp/config/common.mk)
 
 # Inherit from IKALL device
-$(call inherit-product, device/ikall/IKALL/device.mk)
+$(call inherit-product, device/ikall/K333/device.mk)
 
-PRODUCT_DEVICE := IKALL
-PRODUCT_NAME := twrp_IKALL
+PRODUCT_DEVICE := K333
+PRODUCT_NAME := twrp_K333
 PRODUCT_BRAND := LOGIC
-PRODUCT_MODEL := IKALL
+PRODUCT_MODEL := K333
 PRODUCT_MANUFACTURER := ikall
 
 PRODUCT_GMS_CLIENTID_BASE := android-$(PRODUCT_BRAND)
