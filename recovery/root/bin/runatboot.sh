@@ -7,7 +7,7 @@ if [ $? != "0" ]; then
 fi
 
 
-if [ -e /dev/block/mmcblk1p1 ];
+if [ -e /dev/block/mmcblk0p1 ];
 then
 	mount /sdcard > /dev/null 2>&1;
 	cp -f /tmp/recovery.log /sdcard/
