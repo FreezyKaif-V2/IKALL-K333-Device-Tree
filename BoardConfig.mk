@@ -104,7 +104,7 @@ TARGET_SCREEN_WIDTH := 240
 TARGET_SCREEN_HEIGHT := 320
 
 # Fstab Dir
-TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/recovery.fstab
+TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/recovery/root/system/etc/recovery.fstab
 
 # TWRP Configuration
 TW_HAS_NO_RECOVERY_PARTITION := true
