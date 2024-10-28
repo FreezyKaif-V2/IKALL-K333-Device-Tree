@@ -9,4 +9,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/twrp_K333.mk
 
 COMMON_LUNCH_CHOICES := \
+    twrp-K333-user \
+    twrp-K333-userdebug \
     twrp_K333-eng
