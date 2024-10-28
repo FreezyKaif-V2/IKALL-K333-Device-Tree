@@ -19,7 +19,6 @@ AB_OTA_PARTITIONS += \
     product \
     boot \
     vbmeta_system
-
 BOARD_USES_RECOVERY_AS_BOOT := true
 
 # Architecture
@@ -35,7 +34,6 @@ TARGET_BOARD_PLATFORM := mt6739
 TARGET_BOARD_SUFFIX := _64
 TARGET_IS_64_BIT := true
 TARGET_USES_64_BIT_BINDER := true
-TARGET_SUPPORTS_64_BIT_APPS := true
 
 # For MTK Devices
 BOARD_USES_MTK_HARDWARE := true
