@@ -9,4 +9,4 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/twrp_K333.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_IKALL-eng
+    twrp_K333-eng
